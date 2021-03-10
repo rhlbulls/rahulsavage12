@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsavage12&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsavage12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsavage12" alt="rahulsavage12" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/rahulsavage12](https://github.com/rahulsavage12)
+- 👨‍💻 All of my projects are available at [https://github.com/rahulsavage12?tab=repositories](https://github.com/rahulsavage12?tab=repositories)
 
 - 📫 How to reach me **rahulbulls12@gmail.com**
 
