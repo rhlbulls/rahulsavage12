@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1qGJ0cLFc051S4ZbmDXD3gTh_wmotpdsmpyQV7wL0CZA/edit?usp=sharing](https://docs.google.com/document/d/1qGJ0cLFc051S4ZbmDXD3gTh_wmotpdsmpyQV7wL0CZA/edit?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
