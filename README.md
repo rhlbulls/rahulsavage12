@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsavage12&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsavage12" /> </p>
+- My Resume : [Rahul_Sankar_Resume_19-04-2022-10-04-31.pdf](https://github.com/rahulsavage12/rahulsavage12/files/8509863/Rahul_Sankar_Resume_19-04-2022-10-04-31.pdf)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rahulsavage12?tab=repositories](https://github.com/rahulsavage12?tab=repositories)
 
@@ -26,6 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsavage12&show_icons=true&locale=en&layout=compact" alt="rahulsavage12" /></p>
 
-**My Resume**
 
-[Rahul_Sankar_Resume_19-04-2022-10-04-31.pdf](https://github.com/rahulsavage12/rahulsavage12/files/8509863/Rahul_Sankar_Resume_19-04-2022-10-04-31.pdf)
+
