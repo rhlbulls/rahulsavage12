@@ -26,4 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsavage12&show_icons=true&locale=en&layout=compact" alt="rahulsavage12" /></p>
 
+**My Resume**
 
+[Rahul_Sankar_Resume_19-04-2022-10-04-31.pdf](https://github.com/rahulsavage12/rahulsavage12/files/8509863/Rahul_Sankar_Resume_19-04-2022-10-04-31.pdf)
