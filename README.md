@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rahulbulls12@gmail.com**
 
-- 📄 Know about my experiences https://github.com/rahulsavage12/rahulsavage12/files/8509863/Rahul_Sankar_Resume_19-04-2022-10-04-31.pdf
+- 📄 Know about my experiences [Rahul Sankar Resume.pdf](https://github.com/rahulsavage12/rahulsavage12/files/9113025/Rahul.Sankar.Resume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
